@@ -13,24 +13,24 @@ Your connection string is: <code>mongodb://iplaycore:t0k3n@iplaycore-shard-00-00
 #### Books Resources
 
 ##### GET REGION
-- **[<code>GET</code> v1/public/books](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/GET_BOOKS.md)**
-- **[<code>GET</code> v1/public/books/:bookId](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/GET_BOOKS_BY_ID.md)**
-- **[<code>GET</code> v1/public/books/:bookId/comments](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/GET_BOOKS_COMMENTS.md)**
-- **[<code>GET</code> v1/public/books/:bookId/scores](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/GET_BOOKS_SCORES.md)**
+- **[<code>GET</code> v1/public/books](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/GET_BOOKS.md)**
+- **[<code>GET</code> v1/public/books/:bookId](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/GET_BOOKS_BY_ID.md)**
+- **[<code>GET</code> v1/public/books/:bookId/comments](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/GET_BOOKS_COMMENTS.md)**
+- **[<code>GET</code> v1/public/books/:bookId/scores](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/GET_BOOKS_SCORES.md)**
 
 ##### PUT REGION
-- **[<code>PUT</code> v1/public/books/:bookId](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/PUT_BOOKS.md)**
-- **[<code>PUT</code> v1/public/books/:bookId/comments/:commentId](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/PUT_COMMENTS.md)**
-- **[<code>PUT</code> v1/public/books/:bookId/scores/:scoreId](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/PUT_SCORES.md)**
+- **[<code>PUT</code> v1/public/books/:bookId](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/PUT_BOOKS.md)**
+- **[<code>PUT</code> v1/public/books/:bookId/comments/:commentId](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/PUT_COMMENTS.md)**
+- **[<code>PUT</code> v1/public/books/:bookId/scores/:scoreId](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/PUT_SCORES.md)**
 
 ##### POST REGION
-- **[<code>POST</code> v1/public/books](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/POST_BOOKS.md)**
-- **[<code>POST</code> v1/public/books/:bookId/comments](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/POST_COMMENTS.md)**
-- **[<code>POST</code> v1/public/books/:bookId/scores](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/POST_SCORES.md)**
+- **[<code>POST</code> v1/public/books](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/POST_BOOKS.md)**
+- **[<code>POST</code> v1/public/books/:bookId/comments](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/POST_COMMENTS.md)**
+- **[<code>POST</code> v1/public/books/:bookId/scores](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/POST_SCORES.md)**
 
 ##### DELETE REGION
-- **[<code>DELETE</code> v1/public/books/:bookId](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/DELETE_BOOKS.md)**
-- **[<code>DELETE</code> v1/public/books/:bookId/comments/:commentId](https://github.com/lucashdp/virtual-bookstore/blob/master/api-documentation/books/DELETE_COMMENTS.md)**
+- **[<code>DELETE</code> v1/public/books/:bookId](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/DELETE_BOOKS.md)**
+- **[<code>DELETE</code> v1/public/books/:bookId/comments/:commentId](https://github.com/lucashdp/catalog-microservice/blob/master/api-documentation/books/DELETE_COMMENTS.md)**
 
 ## Pre-Requisites
 
